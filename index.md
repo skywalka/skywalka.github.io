@@ -6,7 +6,7 @@ layout: default
 
 # Securitah FTW
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Welcome to the number one securitah blog on the internets.
 
 ## Blog Posts
 
