@@ -23,9 +23,23 @@ Just chose your device type and follow these simple instructions:
 *   [Windows](https://developers.cloudflare.com/1.1.1.1/setup/windows/)
 *   [Linux](https://developers.cloudflare.com/1.1.1.1/setup/linux/)
 
-Note: use the DNS Servers listed under the "Block malware with 1.1.1.1 for Families" dropdown.
+Note: use the DNS Servers listed under the following dropdown:
 
-If you have young children, you can protect their devices from both Malware & Porn for FREE just as easily, simply follow the same instructions as above but use the DNS Servers listed under the "Block malware and adult content with 1.1.1.1 for Families" dropdown.
+#### Block malware with 1.1.1.1 for Families
+
+```
+1.1.1.2
+1.0.0.2
+```
+
+If you have young children, you can protect their devices from both Malware & Porn for FREE just as easily, simply follow the same instructions as above but use the DNS Servers listed under the following dropdown:
+
+#### Block malware and adult content with 1.1.1.1 for Families
+
+```
+1.1.1.3
+1.0.0.3
+```
 
 I have updated my daughter's tablet and laptop and it was super easy, let me know if you have any questions or queries... happy to help :)
 
