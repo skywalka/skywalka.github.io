@@ -4,6 +4,8 @@ layout: default
 
 [Home](./).
 
+![alt text](/images/wutangc.png "Wu-Tang is for the children"){: height="250" }
+
 # About Securitah
 
 It's a blog about Cyber Security by a human, and that is being generous.
