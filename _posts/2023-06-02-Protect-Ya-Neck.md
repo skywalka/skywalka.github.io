@@ -17,7 +17,7 @@ Malware is a huge problem affecting both businesses and people like you and me e
 
 Even the best Anti-Virus software/EDR solution can't catch everything, but you can benefit from Cloudflare's Internet intelligence to filter content on your home wifi, which will help protect your critical information with just a few clicks.
 
-Just chose your device type and follow these simple instructions:
+Just choose your device type and follow these simple instructions:
 
 *   [iPhone/iPad](https://developers.cloudflare.com/1.1.1.1/setup/ios/)
 *   [Android](https://developers.cloudflare.com/1.1.1.1/setup/android/)
