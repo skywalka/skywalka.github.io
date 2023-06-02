@@ -7,7 +7,7 @@ tags: cyber security malware dns
 
 [Home](/).
 
-![alt text](/images/cloud-sun.jpg "Cloudy"){: height="300" }
+![alt text](/images/cloud-sun.png "Cloudy"){: height="300" }
 
 ## Free protection from Malware (and Porn) for your home internet
 
