@@ -2,7 +2,7 @@
 layout: post
 title: Protect Ya Neck
 author: 'Luke Harris'
-tags: cyber security hacking
+tags: cyber security malware dns
 ---
 
 [Home](/).
