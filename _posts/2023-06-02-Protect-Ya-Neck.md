@@ -7,6 +7,8 @@ tags: cyber security malware dns
 
 [Home](/).
 
+![alt text](/images/cloud-sun.jpg "Cloudy"){: height="300" }
+
 ## Free protection from Malware (and Porn) for your home internet
 
 Firstly, we all know most adults won't be choosing Option 2, but you can get FREE Malware protection from Cloudflare with NO additional apps or software...
